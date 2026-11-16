@@ -1,3 +1,4 @@
+//Using DOIT ESP32 DEVKIT V1 as specified by the arduino IDE
 #include <Wire.h>              //Para SDA e SDL
 #include <SPI.h>               //Protocolo de Comunicação com cartão Sd
 #include <SD.h>                //Gerenciamento de Cartão SD --> http://arduino.cc/en/Reference/SD
